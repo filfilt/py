@@ -1,4 +1,4 @@
- class student:
+class student:
     def sayHello(self):
         print("Hello " + s1.Fname)
 
